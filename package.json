@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "evictions-moratorium",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,12 +12,13 @@
     "eslint": "^7.0.0",
     "parcel-bundler": "^1.12.3",
     "patch-package": "^6.2.2",
-    "posthtml-expressions": "^1.4.0",
-    "posthtml-include": "^1.4.3",
+    "posthtml-expressions": "^1.9.0",
+    "posthtml-include": "^1.7.2",
     "sass": "^1.26.5"
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
+    "scrollama": "^3.1.1",
     "text-balancer": "^1.0.5"
   },
   "browserslist": [
@@ -33,6 +34,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1OXieOIDQSR1j3z7tjyb4L179e3WI2-1wpnrHaNoGgZM/edit"
   }
 }
