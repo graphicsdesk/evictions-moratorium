@@ -10,37 +10,165 @@
         "body": [
           {
             "type": "text",
-            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+            "value": "During a dreary week in the middle of January, Brittany Robinson, a tenant organizer at the grassroots organization Tenants & Neighbors, suddenly began receiving an influx of calls from New York City tenants seeking assistance. This was expected: The state-wide eviction moratorium had just expired, leaving thousands of tenants late on their rent payments and vulnerable to eviction."
           },
           {
             "type": "text",
-            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+            "value": "Some callers sought information regarding rental assistance. Others, overwhelmed by the complexities of housing court, worried that they could be evicted within the span of the following few days."
+          },
+          {
+            "type": "text",
+            "value": "“With everything happening in the world, a lot of tenants didn’t know their rights,” Brittany Robinson said. “They didn’t know about the process of eviction and thought that with [the moratorium] expiring, they would be evicted the next day.”"
+          },
+          {
+            "type": "text",
+            "value": "On Jan. 15, 2022, New York State’s pandemic-era eviction moratorium ended after providing tenants with major protections for almost two years. From its initial implementation in 2020, the moratorium paused most eviction cases and served as a crucial source of comfort and security for tenants facing financial hardships due to the pandemic-induced economic downturn."
+          },
+          {
+            "type": "text",
+            "value": "But now, amid a competitive housing market and soaring rent prices, the end of the moratorium has drastically increased the threat of eviction and homelessness among local residents. Since the moratorium ended, the number of active eviction cases in New York state has increased by over 30,000. The result has been a wave of fear among tenants as concerns of eviction and displacement rapidly mount."
           },
           {
             "type": "graphic",
             "value": {
-              "asset": "scrollchart.html"
+              "asset": "nycchangefinal.html"
             }
           },
           {
             "type": "text",
-            "value": "Why does htis not work"
+            "value": "Marginalized and low-income communities, which continue to suffer the fallout of the financial and health crises of the pandemic, have disproportionately bore the brunt of these evictions. A 2021 report by The New York Times found that New York City landlords were seeking evictions almost four times more often in areas suffering the most from the pandemic—many of which are made up of largely Black and Latinx residents."
           },
           {
             "type": "text",
-            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+            "value": "“The end of the eviction moratorium means more people are going to be pushed out of their homes,” said Marti Gould Cummings, a Community Board 9 member. “And it’s impacting lower-income communities, of course, at higher rates.”"
           },
           {
             "type": "text",
-            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "The effects of the moratorium’s end have been directly felt in West Harlem, a neighborhood predominantly made up of Black and Latinx residents, which was hard hit by the economic downturn of the pandemic. In the West Harlem zip code 10031, there have been 110 eviction filings in the past month alone. Of these evictions, 46.47 percent were filed by Latinx community members and 32.33 percent were filed by Black community members. Throughout the entirety of West Harlem, the majority of eviction filings come from the Black and Latinx residents."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cb9changefin.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“I think, like with a lot of issues, and especially including housing and evictions, this disproportionately affects certain demographics and communities,” Brittany Robinson said. “In this fight for housing, the people most affected in their communities are Black and brown folks most often, [and] women, mothers.”"
+          },
+          {
+            "type": "text",
+            "value": "The problems raised by this influx of new eviction cases have only been exacerbated by the shortage of available legal service resources. The right to counsel bill passed in 2017 provided all income-eligible New York City tenants with free legal services, including representation, when faced with an eviction case in housing court. However, the current labor shortage among tenant attorneys is posing an accessibility challenge."
+          },
+          {
+            "type": "text",
+            "value": "“The question is whether the courts will accommodate this [labor shortage] by slowing down the process of these eviction proceedings,” said Dave Robinson, an executive committee member of the Morningside Heights Community Coalition. “What I understand is they’re not doing that; they’re just letting the cases go. If the tenant can’t get a lawyer because they’re not available, they’re out of luck.”"
+          },
+          {
+            "type": "text",
+            "value": "Already, three legal firms contracted through the city’s Office of Civil Justice have reported staffing shortages, causing them to stop representing new low-income clients facing eviction in housing court. For tenants lacking knowledge about the eviction process while facing this shortage of legal resources, the difficulties and imbalances of housing court are further compounded by the fact that most opposing landlords can access lawyers."
+          },
+          {
+            "type": "text",
+            "value": "Fears of eviction have also been exacerbated by skyrocketing rent prices throughout the city. These increased rents, which in some places have surpassed pre-pandemic prices, are symptoms of the broader mismatch between supply and demand in the city’s housing market. Despite the pandemic, demand for housing in New York City has been steadily increasing, with rent prices following suit."
+          },
+          {
+            "type": "text",
+            "value": "Even before the pandemic, Columbia’s expansion north into Manhattanville incited widespread fears of gentrification among local residents. In fact, in Harlem, there was a 17.4 percent increase in rent prices over the past year."
+          },
+          {
+            "type": "text",
+            "value": "“Tenants are seeing an increase in their rent, which is displacing lots of families, lending to gentrification,” Brittany Robinson said. “And that has only been exacerbated by the pandemic, where these families, these communities, have even less money [that] they need to stay in their homes, and yet, the rent is still increasing.”"
+          },
+          {
+            "type": "text",
+            "value": "The risk of homelessness for local residents increases alongside the rise in rent prices and eviction case filings. In the eight-month period from June 2021 to February 2022, the number of homeless people per shelter in New York City increased by 21.4 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "occupancyfin.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“This is something that’s impacting the Upper Manhattan community,” Cummings said. “We see more and more people on the streets, and this is going to impact our seniors who aren’t able to keep their homes. It’s going to impact our students—we’re going to see kids in our public schools experiencing homelessness at higher rates.”"
+          },
+          {
+            "type": "text",
+            "value": "As the eviction moratorium’s expiration leaves many local community members vulnerable to homelessness, the local crisis has been intensified by the Mayor Adams’s harsh stance on the issue. In early April, Adams led his administration in a controversial push to clear hundreds of homeless encampments throughout the city, including several in Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“As the courts start processing cases, we’re going to see the number of unhoused people rise,” Cummings said. “And to me, that’s moral bankruptcy in terms of our leadership, from the governor to the mayor and legislators who don’t stand up for what’s right.”"
+          },
+          {
+            "type": "text",
+            "value": "Although the end of the eviction moratorium and the general economic fallout of the pandemic have significantly worsened conditions for tenants, community members stress the fact that all of these issues are deeply rooted and have been hurting local residents for decades."
+          },
+          {
+            "type": "text",
+            "value": "“This is a problem that was happening way before the pandemic, before the eviction moratorium,” Brittany Robinson said. “Keeping housing affordable in New York City has been just a major issue forever and will continue to be as long as we’re in the fight.”"
+          },
+          {
+            "type": "text",
+            "value": "In Morningside Heights and West Harlem, housing activists have <a href=\"https://www.columbiaspectator.com/news/2020/11/30/as-affordable-housing-concerns-heighten-community-board-9-calls-upon-columbia-to-preserve-rent-regulated-units/\">long advocated for the preservation and creation of affordable housing</a> as a way to mitigate encroaching luxury development and the resulting increase in rent prices. Since the 1950s and 1960s, Columbia has bought up many buildings in the neighborhood, turning the University into an influential landlord. More recently, Columbia’s $6 billion Manhattanville expansion drastically increased the threat of displacement for local community members, <a href=\"https://www.columbiaspectator.com/news/2019/11/21/whdc-invests-2-million-for-over-150-affordable-housing-units-in-central-harlem/\">placing up to 1,318 units</a> at risk of upward rent pressure."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "moratoriumfin.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In the years leading up to the pandemic, community members grew increasingly concerned by predatory landlords’ efforts to force low-income tenants out of their homes and transform their rent-regulated units into market-rate housing. In the shadow of Columbia’s expansion and the rush of real estate development that followed, the looming threat of displacement became a major problem plaguing local residents."
+          },
+          {
+            "type": "text",
+            "value": "“There was a housing crisis and homelessness crisis in the ’80s and ’90s,” Dave Robinson said. “[Now], we’re in the 2020s, and although a lot of good organizations have built a lot of housing [and] a lot of tenant protections have been put in, we still have some of the same issues, which is that it’s a money-making business, and we have a lot of people who can’t afford to compete.”"
+          },
+          {
+            "type": "text",
+            "value": "Looking toward the future, many community members and housing activists believe that improved governmental policies and legislation can help combat some of this housing crisis’ issues. The Good Cause Eviction bill, for instance, which is currently working its way through the New York State legislature, stands to <a href=\"https://www.columbiaspectator.com/news/2022/02/23/local-leaders-are-optimistic-about-a-bill-that-limits-landlords-power-to-evict/\">provide integral protections for tenants</a>. Community members also stress the importance of allocating more government funding to housing-related endeavors, such as more low-income housing."
+          },
+          {
+            "type": "text",
+            "value": "“In New York City, we have the capacity to house every single person who’s experiencing homelessness,” Cummings said. “We have the buildings, we have the resources. It’s just about—and this goes into budgeting and legislation—allocating funding.”"
+          },
+          {
+            "type": "text",
+            "value": "On a more local level, community members envision a future where the maintenance and creation of affordable housing become part of the norm of real estate development in the areas surrounding Columbia. In fact, CB9 has called upon Columbia to maintain a certain percentage of affordable housing within every new development that the institution builds."
+          },
+          {
+            "type": "text",
+            "value": "“It’s not a global solution for housing around the city, [or] around the country,” Dave Robinson said. “But certainly in our neighborhood, it would help a lot, because the other institutions aren’t doing anything. And the institutions own a lot of the property—especially Columbia—so we’d like to see them take more responsibility for it.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior staff writer Lucy Brenner can be contacted at </i><a href=\"mailto:lucy.brenner@columbiaspectator.com\"><i>lucy.brenner@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i>. </i><i>Follow her on Twitter @</i><a href=\"https://twitter.com/adidanic\"><i>adidanic</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Mariam Mustafa can be contacted at </i><a href=\"mailto:mariam.mustafa@columbiaspectator.com\"><i>mariam.mustafa@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
+        "headline": "As rent prices soar, the end of New York State’s eviction moratorium looms for local tenants",
         "date": "October 17, 2019",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Lucy-Brenner\">Lucy Brenner</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/5UTHETAFDJDXHMR5W4KWNJ3OWA.jpg",
+        "cover_caption": "Photo by Annie Son",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1OXieOIDQSR1j3z7tjyb4L179e3WI2-1wpnrHaNoGgZM/edit"
       }
