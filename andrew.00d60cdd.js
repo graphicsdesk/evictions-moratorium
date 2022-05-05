@@ -1,12 +1,12 @@
 parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcelRequire,u="function"==typeof require&&require;function f(t,n){if(!r[t]){if(!e[t]){var i="function"==typeof parcelRequire&&parcelRequire;if(!n&&i)return i(t,!0);if(o)return o(t,!0);if(u&&"string"==typeof t)return u(t);var c=new Error("Cannot find module '"+t+"'");throw c.code="MODULE_NOT_FOUND",c}p.resolve=function(r){return e[t][1][r]||r},p.cache={};var l=r[t]=new f.Module(t);e[t][0].call(l.exports,p,l,l.exports,this)}return r[t].exports;function p(e){return f(p.resolve(e))}}f.isParcelRequire=!0,f.Module=function(e){this.id=e,this.bundle=f,this.exports={}},f.modules=e,f.cache=r,f.parent=o,f.register=function(r,t){e[r]=[function(e,r){r.exports=t},{}]};for(var c=0;c<t.length;c++)try{f(t[c])}catch(e){i||(i=e)}if(t.length){var l=f(t[t.length-1]);"object"==typeof exports&&"undefined"!=typeof module?module.exports=l:"function"==typeof define&&define.amd?define(function(){return l}):n&&(this[n]=l)}if(parcelRequire=f,i)throw i;return f}({"Zois":[function(require,module,exports) {
-module.exports="cb9change.58c3d4ca.svg";
+module.exports="https://spectator-static-assets.s3.amazonaws.com/evictions-moratorium/cb9change.58c3d4ca.svg";
 },{}],"lwi4":[function(require,module,exports) {
-module.exports="manhattanchange.b4eb337f.svg";
+module.exports="https://spectator-static-assets.s3.amazonaws.com/evictions-moratorium/manhattanchange.b4eb337f.svg";
 },{}],"XS0v":[function(require,module,exports) {
-module.exports="nycchange.6bd22887.svg";
+module.exports="https://spectator-static-assets.s3.amazonaws.com/evictions-moratorium/nycchange.6bd22887.svg";
 },{}],"fH4c":[function(require,module,exports) {
 module.exports={cb9change:require("./cb9change.svg"),manhattanchange:require("./manhattanchange.svg"),nycchange:require("./nycchange.svg")};
 },{"./cb9change.svg":"Zois","./manhattanchange.svg":"lwi4","./nycchange.svg":"XS0v"}],"T81i":[function(require,module,exports) {
 "use strict";var e=t(require("./*.svg"));function t(e){return e&&e.__esModule?e:{default:e}}console.log(e.default);var s=["cb9change","manhattanchange","nycchange"],c=document.querySelector("main"),n=c.querySelector("#scrolly"),l=n.querySelector(".sticky-thing"),r=n.querySelector("article"),o=r.querySelectorAll(".step"),a=scrollama();function i(t){var c=t.element;o.forEach(function(e){return e.classList.remove("is-active")}),c.classList.add("is-active"),console.log(t.index),console.log(document.getElementById("stick").getElementsByClassName("myimg")[0].src),document.getElementById("stick").getElementsByClassName("myimg")[0].src=e.default[s[t.index]]}function u(){a.setup({step:"#scrolly article .step",offset:.33,debug:!0}).onStepEnter(i),window.addEventListener("resize",a.resize)}u();
 },{"./*.svg":"fH4c"}]},{},["T81i"], "script")
-//# sourceMappingURL=andrew.00d60cdd.js.map
+//# sourceMappingURL=https://spectator-static-assets.s3.amazonaws.com/evictions-moratorium/andrew.00d60cdd.js.map
